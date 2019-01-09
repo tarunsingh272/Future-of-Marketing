@@ -1,5 +1,5 @@
 # The future of marketing: Beat the competition with realtime analytics using AWS Kinesis, Spark and Amazon RDS
-### Trends Marketplace Fall MSBA'19 - Team 2
+### Fall MSBA
 
 ## Project overview and objective
 Due to social media outreach, identifying and leveraging social media influencers for business development has become crucial aspect of developing a successful marketing strategy for organisations. Below are some of the facts why influencer reach is of high importance:
