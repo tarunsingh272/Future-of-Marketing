@@ -4,7 +4,7 @@
 ## Project overview and objective
 Due to social media outreach, identifying and leveraging social media influencers for business development has become crucial aspect of developing a successful marketing strategy for organisations. Below are some of the facts why influencer reach is of high importance:
 
-![Influencer Importance](https://github.com/tarunsingh272/Future-of-Marketing/blob/master/Diagrams/Inf.PNG)
+![Influencer Importance](https://github.com/tarunsingh272/Future-of-Marketing/blob/master/Inf.PNG)
 
 One of such popular social media platforms is twitter and various factors define how an influencer can be spotted:
 1. Retweets: The number of retweets a person's tweet gets
