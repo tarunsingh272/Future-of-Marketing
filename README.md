@@ -61,6 +61,9 @@ spark-submit --jars ~/mysql-connector-java-5.1.42/mysql-connector-java-5.1.42-bi
 ## Final Dashboard
 https://public.tableau.com/profile/sidd.malik#!/vizhome/TopTwitter/Dashboard2
 
+## Final deck
+https://docs.google.com/presentation/d/1OHS7I62fbAXKLdTxEw2ThiqR-9Z9S6LcF1gHyN5oARE/edit#slide=id.p1
+
 ## References
 1. https://nycdatascience.com/blog/student-works/web-scraping/build-near-real-time-twitter-streaming-analytical-pipeline-scratch-using-spark-aws/
 2. https://nycdatascience.com/blog/student-works/creating-real-time-streaming-platform-identify-top-influencers-twitter/
